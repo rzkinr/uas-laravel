@@ -17,6 +17,13 @@ jangan lupa:
 
 composer update --no-scripts
 
+setup database:
+1. nama db: db_sepatu
+2. php artisan migrate
+
+Name : Rizki Nur Rokhim
+Nim  : 183140714111048
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
