@@ -10,8 +10,12 @@
 ## About Project
 
 Sebuah website admin yang mengelola data-data penjualan dari item, merk, kategori, supplier.
-username: admin@admin.com
-password: admin123
+- username: admin@admin.com
+- password: admin123
+
+jangan lupa: 
+
+composer update --no-scripts
 
 ## About Laravel
 
