@@ -18,8 +18,11 @@ jangan lupa:
 composer update --no-scripts
 
 setup database:
-1. nama db: db_sepatu
-2. php artisan migrate
+1. buat file baru .env
+2. copy isi .env.example ke file .env yang baru dibuat
+2. ganti nama database dengan: db_sepatu
+3. php artisan migrate
+4. php artisan serve
 
 Name : Rizki Nur Rokhim
 Nim  : 183140714111048
